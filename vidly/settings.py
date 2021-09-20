@@ -25,7 +25,9 @@ SECRET_KEY = 'rsqip5v@onn6$*bj@vz6!v(lq+la9)i!e&_-e0g_38n2=^u#u+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'secret-shelf-11611.herokuapp.com'
+]
 
 
 # Application definition
